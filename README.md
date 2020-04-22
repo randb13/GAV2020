@@ -1,14 +1,10 @@
-![GAB2019](https://github.com/randb13/GAB2019/blob/master/gab2019.png)
+![GAV2020](https://github.com/randb13/GAV2020/blob/master/Screenshot_10.png)
 
-# Infrastructure as code (IAC) :cloud:
+# Gérer la gouvernance des balises avec Azure Policy :cloud:
 
-## LAB1 : MES DEBUTS AVEC TERRAFORM ET AZURE
+## LAB
 
 https://github.com/randb13/GAB2019/blob/master/GAB2019-Terraform.pdf
 
-
-## LAB2 : TERRAFORM ET AZURE  DEVOPS
-
-https://www.azuredevopslabs.com/labs/vstsextend/terraform/
 
 Enjoy !!
