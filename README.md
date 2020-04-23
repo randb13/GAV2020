@@ -2,9 +2,9 @@
 
 # Gérer la gouvernance des balises avec Azure Policy :cloud:
 
-## LAB
+## LAB --> Cliquez pour visualiser / télécharger
 
-https://github.com/randb13/GAB2019/blob/master/GAB2019-Terraform.pdf
+https://github.com/randb13/GAV2020/blob/master/GAB_LAB_TAG_POLICIES.pdf
 
 
 Enjoy !!
